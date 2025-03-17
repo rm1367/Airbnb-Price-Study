@@ -8,6 +8,10 @@ Project consists of 2019 data regarding prices of Airbnb rentals in New York Cit
 *Note: due to changes in listings, links to specific rentals were not included in the final study.*
 
 <br />
+<br />
+
+[Interactive Dashboard](https://public.tableau.com/app/profile/ryan.maldonado/viz/AverageAirbnbPricesinNYC2019data/Dashboard1)
+
 
 <h2>Data Visualization</h2>
 
